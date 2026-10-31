@@ -1,0 +1,48 @@
+id,page,part,plays,dur,title,voices,url
+A1-01,8,front,2,1:42,A1-Rückblick: Klaus stellt sich vor,de-AT-JonasNeural de-DE-KatjaNeural,https://hamaysfi.github.io/audio_a2/A1-01.mp3
+A1-02,9,front,2,1:27,A1 Quick-Test: Zwei kurze Ansagen,de-DE-KatjaNeural de-DE-SeraphinaMultilingualNeural,https://hamaysfi.github.io/audio_a2/A1-02.mp3
+AUS-01,10,front,1,1:02,Aussprache: Laute und Satzmelodie,de-DE-KatjaNeural,https://hamaysfi.github.io/audio_a2/AUS-01.mp3
+M01-W,14,modul-01,1,2:13,Wortschatz Modul 1,de-DE-KatjaNeural,https://hamaysfi.github.io/audio_a2/M01-W.mp3
+M01-D,16,modul-01,1,1:11,Dialog: Sami und Nadia im Café,de-DE-KatjaNeural de-DE-KillianNeural de-DE-SeraphinaMultilingualNeural,https://hamaysfi.github.io/audio_a2/M01-D.mp3
+M01-L,20,modul-01,1,1:31,Lesetext: Leilas E-Mail an Fatma,de-DE-AmalaNeural de-DE-KatjaNeural,https://hamaysfi.github.io/audio_a2/M01-L.mp3
+M01-H,23,modul-01,2,5:04,Hören Teil 1: Fünf kurze Texte,de-AT-IngridNeural de-AT-JonasNeural de-CH-LeniNeural de-DE-AmalaNeural de-DE-ConradNeural de-DE-KatjaNeural,https://hamaysfi.github.io/audio_a2/M01-H.mp3
+M01-H2,28,modul-01,2,1:31,Prüfungs-Check: Hören Teil 4 (Interview),de-AT-IngridNeural de-DE-ConradNeural de-DE-KatjaNeural,https://hamaysfi.github.io/audio_a2/M01-H2.mp3
+M02-W,30,modul-02,1,2:07,Wortschatz Modul 2,de-DE-KatjaNeural,https://hamaysfi.github.io/audio_a2/M02-W.mp3
+M02-D,32,modul-02,1,1:10,Dialog: Die Wohnungsbesichtigung,de-DE-ConradNeural de-DE-KatjaNeural de-DE-KillianNeural de-DE-SeraphinaMultilingualNeural,https://hamaysfi.github.io/audio_a2/M02-D.mp3
+M02-L,36,modul-02,1,1:13,Lesetext: Die WG-Anzeige,de-DE-KatjaNeural de-DE-SeraphinaMultilingualNeural,https://hamaysfi.github.io/audio_a2/M02-L.mp3
+M02-H,39,modul-02,1,1:41,Hören Teil 2: Sami räumt ein,de-DE-KatjaNeural de-DE-KillianNeural de-DE-SeraphinaMultilingualNeural,https://hamaysfi.github.io/audio_a2/M02-H.mp3
+M03-W,46,modul-03,1,2:17,Wortschatz Modul 3,de-DE-KatjaNeural,https://hamaysfi.github.io/audio_a2/M03-W.mp3
+M03-D,48,modul-03,1,1:01,Dialog: Samis erster Arbeitstag,de-DE-AmalaNeural de-DE-KatjaNeural de-DE-KillianNeural,https://hamaysfi.github.io/audio_a2/M03-D.mp3
+M03-L,52,modul-03,1,1:28,Lesetext: Jobben neben dem Studium,de-DE-KatjaNeural,https://hamaysfi.github.io/audio_a2/M03-L.mp3
+M03-H,55,modul-03,2,4:03,Hören Teil 4: Interview mit Leila Gharbi,de-DE-AmalaNeural de-DE-ConradNeural de-DE-KatjaNeural,https://hamaysfi.github.io/audio_a2/M03-H.mp3
+M04-W,62,modul-04,1,2:03,Wortschatz Modul 4,de-DE-KatjaNeural,https://hamaysfi.github.io/audio_a2/M04-W.mp3
+M04-D,64,modul-04,1,0:49,Dialog: Im Restaurant,de-DE-AmalaNeural de-DE-FlorianMultilingualNeural de-DE-KatjaNeural de-DE-KillianNeural,https://hamaysfi.github.io/audio_a2/M04-D.mp3
+M04-L,68,modul-04,1,1:01,Lesetext: Der WG-Chat zum Grillabend,de-DE-KatjaNeural de-DE-KillianNeural de-DE-SeraphinaMultilingualNeural,https://hamaysfi.github.io/audio_a2/M04-L.mp3
+M04-H,71,modul-04,1,2:57,Hören Teil 3: Fünf kurze Gespräche,de-AT-IngridNeural de-DE-AmalaNeural de-DE-FlorianMultilingualNeural de-DE-KatjaNeural de-DE-KillianNeural de-DE-SeraphinaMultilingualNeural,https://hamaysfi.github.io/audio_a2/M04-H.mp3
+M04-H2,76,modul-04,2,1:13,Prüfungs-Check: Hören Teil 1 (Durchsage im Supermarkt),de-CH-LeniNeural de-DE-KatjaNeural,https://hamaysfi.github.io/audio_a2/M04-H2.mp3
+M05-W,78,modul-05,1,2:04,Wortschatz Modul 5,de-DE-KatjaNeural,https://hamaysfi.github.io/audio_a2/M05-W.mp3
+M05-D,80,modul-05,1,0:57,Dialog: Beim Arzt,de-DE-FlorianMultilingualNeural de-DE-KatjaNeural de-DE-KillianNeural,https://hamaysfi.github.io/audio_a2/M05-D.mp3
+M05-L,84,modul-05,1,0:48,Lesetext: Leilas Krankmeldung,de-DE-AmalaNeural de-DE-KatjaNeural,https://hamaysfi.github.io/audio_a2/M05-L.mp3
+M05-H,87,modul-05,2,4:17,Hören Teil 1: Fünf kurze Texte,de-AT-IngridNeural de-CH-LeniNeural de-DE-ConradNeural de-DE-FlorianMultilingualNeural de-DE-KatjaNeural de-DE-SeraphinaMultilingualNeural,https://hamaysfi.github.io/audio_a2/M05-H.mp3
+M06-W,94,modul-06,1,2:11,Wortschatz Modul 6,de-DE-KatjaNeural,https://hamaysfi.github.io/audio_a2/M06-W.mp3
+M06-D,96,modul-06,1,0:55,Dialog: Nadias Einladung,de-DE-KatjaNeural de-DE-KillianNeural de-DE-SeraphinaMultilingualNeural,https://hamaysfi.github.io/audio_a2/M06-D.mp3
+M06-L,100,modul-06,1,0:50,Lesetext: Amines Einladung,de-CH-JanNeural de-DE-KatjaNeural,https://hamaysfi.github.io/audio_a2/M06-L.mp3
+M06-H,103,modul-06,1,1:54,Hören Teil 2: Was macht Sami wann?,de-DE-AmalaNeural de-DE-KatjaNeural de-DE-KillianNeural,https://hamaysfi.github.io/audio_a2/M06-H.mp3
+M07-W,110,modul-07,1,2:16,Wortschatz Modul 7,de-DE-KatjaNeural,https://hamaysfi.github.io/audio_a2/M07-W.mp3
+M07-D,112,modul-07,1,0:52,Dialog: Nach dem Weg fragen,de-CH-LeniNeural de-DE-KatjaNeural de-DE-KillianNeural,https://hamaysfi.github.io/audio_a2/M07-D.mp3
+M07-L,116,modul-07,1,0:45,Lesetext: Samis Hotelbuchung,de-DE-KatjaNeural de-DE-KillianNeural,https://hamaysfi.github.io/audio_a2/M07-L.mp3
+M07-H,119,modul-07,2,3:31,Hören Teil 1: Fünf Durchsagen,de-CH-LeniNeural de-DE-ConradNeural de-DE-FlorianMultilingualNeural de-DE-KatjaNeural,https://hamaysfi.github.io/audio_a2/M07-H.mp3
+M07-H2,124,modul-07,2,1:01,Prüfungs-Check: Hören Teil 1 (Durchsage am Flughafen),de-CH-LeniNeural de-DE-KatjaNeural,https://hamaysfi.github.io/audio_a2/M07-H2.mp3
+M08-W,126,modul-08,1,2:05,Wortschatz Modul 8,de-DE-KatjaNeural,https://hamaysfi.github.io/audio_a2/M08-W.mp3
+M08-D,128,modul-08,1,1:02,Dialog: In der Boutique,de-AT-IngridNeural de-DE-AmalaNeural de-DE-KatjaNeural,https://hamaysfi.github.io/audio_a2/M08-D.mp3
+M08-L,132,modul-08,1,1:04,Lesetext: Nadias Fashion-Blog,de-DE-KatjaNeural de-DE-SeraphinaMultilingualNeural,https://hamaysfi.github.io/audio_a2/M08-L.mp3
+M08-H,135,modul-08,1,2:58,Hören Teil 3: Fünf kurze Gespräche,de-AT-IngridNeural de-DE-AmalaNeural de-DE-FlorianMultilingualNeural de-DE-KatjaNeural de-DE-KillianNeural de-DE-SeraphinaMultilingualNeural,https://hamaysfi.github.io/audio_a2/M08-H.mp3
+M09-W,142,modul-09,1,2:09,Wortschatz Modul 9,de-DE-KatjaNeural,https://hamaysfi.github.io/audio_a2/M09-W.mp3
+M09-D,144,modul-09,1,0:58,Dialog: Ein Ausflug an den Ammersee,de-DE-AmalaNeural de-DE-KatjaNeural de-DE-KillianNeural,https://hamaysfi.github.io/audio_a2/M09-D.mp3
+M09-L,148,modul-09,1,0:55,Lesetext: Markus' Blog,de-DE-FlorianMultilingualNeural de-DE-KatjaNeural,https://hamaysfi.github.io/audio_a2/M09-L.mp3
+M09-H,151,modul-09,2,3:04,Hören Teil 4: Interview mit Nadia,de-DE-ConradNeural de-DE-KatjaNeural de-DE-SeraphinaMultilingualNeural,https://hamaysfi.github.io/audio_a2/M09-H.mp3
+M10-W,158,modul-10,1,2:12,Wortschatz Modul 10,de-DE-KatjaNeural,https://hamaysfi.github.io/audio_a2/M10-W.mp3
+M10-D,160,modul-10,1,1:03,Dialog: Im Elektronikmarkt,de-DE-FlorianMultilingualNeural de-DE-KatjaNeural de-DE-KillianNeural,https://hamaysfi.github.io/audio_a2/M10-D.mp3
+M10-L,164,modul-10,1,0:53,Lesetext: Amines Blog,de-CH-JanNeural de-DE-KatjaNeural,https://hamaysfi.github.io/audio_a2/M10-L.mp3
+M10-H,167,modul-10,1,2:56,Hören Teil 3: Fünf kurze Gespräche,de-AT-IngridNeural de-AT-JonasNeural de-CH-JanNeural de-DE-AmalaNeural de-DE-KatjaNeural de-DE-KillianNeural de-DE-SeraphinaMultilingualNeural,https://hamaysfi.github.io/audio_a2/M10-H.mp3
+M10-H2,172,modul-10,2,0:55,Prüfungs-Check: Hören Teil 1 (Nachricht von Amine),de-CH-JanNeural de-DE-KatjaNeural,https://hamaysfi.github.io/audio_a2/M10-H2.mp3
